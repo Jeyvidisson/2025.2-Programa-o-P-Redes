@@ -1,2 +1,2 @@
-# 2025.2-Programa-o-P-Redes
+# 2025.2-ProgComp
 Para a matéria do professor Charles
